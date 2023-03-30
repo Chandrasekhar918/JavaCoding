@@ -1,0 +1,15 @@
+package programs;
+
+public class reverse {
+
+	public static void main(String[] args) {
+		String a="madam";
+		a.toLowerCase();
+		StringBuilder b=new StringBuilder(a);
+		b.reverse();
+		System.out.println(b);
+		// TODO Auto-generated method stub
+
+	}
+
+}

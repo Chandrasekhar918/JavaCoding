@@ -1,0 +1,21 @@
+package programs;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class largestamong3 {
+
+	public static void main(String[] args) {
+ArrayList<Integer> arr=new ArrayList<Integer>();
+arr.add(23);
+arr.add(33);
+arr.add(45);
+
+System.out.println(Collections.max(arr));
+	
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package programs;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class secondhighestnum {
+	
+	public static void main(String[] args) {
+		List<Integer> num=new ArrayList<Integer>();
+		num.add(7);num.add(78);
+		num.add(34);
+	
+	
+	System.out.println(num);
+	
+	}
+}

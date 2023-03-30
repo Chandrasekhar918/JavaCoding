@@ -1,0 +1,14 @@
+package programs;
+
+public class perfectsqr {
+
+	public static void main(String[] args) {
+		long s=401;
+		long t=Math.sqrt(s);
+		if
+		System.out.println(t);
+		// TODO Auto-generated method stub
+
+	}
+
+}

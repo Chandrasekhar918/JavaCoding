@@ -1,0 +1,23 @@
+package programs;
+
+import java.util.Scanner;
+
+public class palindrone {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		String a=sc.next();
+		
+		
+		StringBuilder b= new StringBuilder(a);
+		
+	b.reverse();
+	
+	String c1=a.equals(b) ? "Palindrome" : "Not";
+	System.out.println(c1);
+	
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package collection;
+
+public class insert_element_at_first_position {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

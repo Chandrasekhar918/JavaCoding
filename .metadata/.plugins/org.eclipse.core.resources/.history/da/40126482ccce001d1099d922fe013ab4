@@ -1,0 +1,19 @@
+package programs;
+
+public class perfectsqr {
+
+	public static void main(String[] args) {
+		int s=401;
+		int t=(int) Math.sqrt(s);
+		if(t-Math.floor(t)==0) {
+			System.out.println("Perfect square");
+		}
+		else {
+			System.out.println("Not");
+		}
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
